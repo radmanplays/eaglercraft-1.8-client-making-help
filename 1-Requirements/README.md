@@ -36,6 +36,8 @@ You should arrive to a webpage that looks like this.
 
 Congrats you successfully installed java! To test it out, open a command prompt 
 ![image](https://user-images.githubusercontent.com/110630690/210975640-baadffc7-fbe4-4b5b-b752-ec5ec36759c9.png)
+Type in ```java --version```
+![image](https://user-images.githubusercontent.com/110630690/210976854-1aa55738-2aea-4712-ba3c-dfe66d8d9b91.png)
 
 
 
