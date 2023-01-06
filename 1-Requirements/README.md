@@ -6,7 +6,7 @@ So you have decided to try and make a client for eaglercraft 1.8 and here you ar
 - FFMPEG
 - Minecraft 1.8.8 jar and json file
 - Java version 11 and up
-- Something to edit files (Notepad should work too)
+- Eclipse IDE
 - A ZIP archive manager (WinRAR, 7-zip)
 
 ## How to install java
