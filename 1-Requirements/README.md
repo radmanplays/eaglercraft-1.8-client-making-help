@@ -1,13 +1,14 @@
 # Requirements
 
 So you have decided to try and make a client for eaglercraft 1.8 and here you are. For this tutorial you will need:
-- A decent enough computer running 64-bit Windows, MacOS or linux (I will not help anyone using chromeOS, I know most people have chromebooks but I simply will not support it)
+- A decent enough computer running 64-bit Windows (I will not help anyone using chromeOS, I know most people have chromebooks but I simply will not support it)
 - ModCoderPack 1.8.8 (mcp918) [https://modcoderpack.com/](https://modcoderpack.com/)
 - FFMPEG
 - Minecraft 1.8.8 jar and json file
 - Java version 11 and up
 - Eclipse IDE
 - A ZIP archive manager (WinRAR, 7-zip)
+
 
 ## How to install java
 ### On windows
@@ -47,17 +48,6 @@ Type in ```java --version```<br/><br/>
 You will see this appear if java is installed.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210978227-59c21608-e72f-4e4d-b039-230b2acd9f12.png)<br/>
 You are done! You are now ready to start this tutorial series.
-
-### On linux or MacOS
-1. Open a terminal window.<br/><br/>
-![image](https://user-images.githubusercontent.com/110630690/210980856-843cb423-6190-4764-b13d-0a5dfc56d5c0.png)<br/>
-2. Type ```sudo apt-get update && sudo apt-get upgrade -y``` and press enter<br/>
-3. Type ```sudo apt-get install default-jre``` or ```sudo apt-get install openjdk-8-jdk``` and press enter.<br/>
-4. Type ```java --version```<br/>
-5. You will see this<br/><br/>
-![image](https://user-images.githubusercontent.com/110630690/210982845-fc178450-e1a7-4a8e-aa63-473c195ea8bd.png)<br/>
-You are done! You can now ready to start this tutorial series.
-
 
 
 This is all for today's tutorial.
