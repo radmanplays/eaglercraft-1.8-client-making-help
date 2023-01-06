@@ -34,8 +34,9 @@ So you have decided to try and make a client for eaglercraft 1.8 and here you ar
 ![image](https://user-images.githubusercontent.com/110630690/210975248-62540ad3-9e6e-4874-a9c0-ad3297c68862.png)<br/>
 <br/>
 Congrats you successfully installed java! To test it out, open a command prompt.<br/><br/>
-
-![image](https://user-images.githubusercontent.com/110630690/210975640-baadffc7-fbe4-4b5b-b752-ec5ec36759c9.png)
+![image](https://user-images.githubusercontent.com/110630690/210975640-baadffc7-fbe4-4b5b-b752-ec5ec36759c9.png)<br/>
+<br/>
+<br/>
 Type in ```java --version```<br/><br/>
 
 ![image](https://user-images.githubusercontent.com/110630690/210976854-1aa55738-2aea-4712-ba3c-dfe66d8d9b91.png)<br/>
