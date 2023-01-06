@@ -4,6 +4,7 @@ So you have decided to try and make a client for eaglercraft 1.8 and here you ar
 - A decent enough computer running 64-bit Windows, MacOS or linux (I will not help anyone using chromeOS, I know most people have chromebooks but I simply will not support it)
 - ModCoderPack 1.8.8 (mcp918) [https://modcoderpack.com/](https://modcoderpack.com/)
 - FFMPEG
+- Minecraft 1.8.8 jar and json file
 - Java version 11 and up
 - Something to edit files (Notepad should work too)
 - A ZIP archive manager (WinRAR, 7-zip)
