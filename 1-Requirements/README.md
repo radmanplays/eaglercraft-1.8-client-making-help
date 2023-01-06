@@ -44,4 +44,9 @@ Type in ```java --version```<br/><br/>
 You will see this appear if java is installed.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210978227-59c21608-e72f-4e4d-b039-230b2acd9f12.png)
 <br/><br/>
+You are done! You are now ready to start this tutorial series.
+
+### On linux
+
+
 This is all for today's tutorial.
