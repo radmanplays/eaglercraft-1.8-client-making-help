@@ -114,5 +114,8 @@ Type in ```java --version```<br/><br/>
 You will see this appear if java is installed.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210978227-59c21608-e72f-4e4d-b039-230b2acd9f12.png)<br/>
 
+## h. Installing Eclipse IDE.
+1. Navigate to [https://www.eclipse.org/](https://www.eclipse.org/) and click on download.<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/g6ot13hjh3lv172.gif)<br/>
 
 This is all for today's tutorial.
