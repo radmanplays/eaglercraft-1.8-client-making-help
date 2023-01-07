@@ -1,6 +1,6 @@
 # Requirements
 
-So you have decided to try and make a client for eaglercraft 1.8 and here you are. For this tutorial you will need:
+You will need:
 - A decent enough computer running 64-bit Windows.
 - A ZIP archive manager (WinRAR, 7-zip)
 - ModCoderPack 1.8.8 (mcp918.zip) [https://modcoderpack.com/](https://modcoderpack.com/)
