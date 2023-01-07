@@ -1,16 +1,52 @@
 # Requirements
 
 So you have decided to try and make a client for eaglercraft 1.8 and here you are. For this tutorial you will need:
-- A decent enough computer running 64-bit Windows (I will not help anyone using chromeOS, I know most people have chromebooks but I simply will not support it)
-- ModCoderPack 1.8.8 (mcp918) [https://modcoderpack.com/](https://modcoderpack.com/)
-- FFMPEG
-- Minecraft 1.8.8 jar and json file
-- Java version 11 and up
-- Eclipse IDE
+- A decent enough computer running 64-bit Windows.
 - A ZIP archive manager (WinRAR, 7-zip)
+- ModCoderPack 1.8.8 (mcp918.zip) [https://modcoderpack.com/](https://modcoderpack.com/)
+- FFMPEG [Download](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2023-01-04-git-4a80db5fc2-full_build.7z)
+- Minecraft 1.8.8 jar [Download](https://mcversions.net/download/1.8.8)
+- Java version 11 or newer
+- Eclipse IDE
 
+# Getting started
 
-## How to install java
+## a. Creating our workspace
+1. Navigate to your desktop<br/>
+2. Right-click and select new<br/><br/>
+![image](https://user-images.githubusercontent.com/110630690/211144896-7e317941-46d0-4e32-8737-59a28cf19263.png)<br/>
+3. Click on ```Folder```.<br/>
+4. Name it how you want.<br/><br/>
+![image](https://user-images.githubusercontent.com/110630690/211144909-b97aec17-be21-44a3-8e49-181be8a26905.png)<br/>
+
+## c. Downloading ModCoderPack
+1. Navigate to [https://modcoderpack.com/](https://modcoderpack.com/).<br/>
+2. If it says the connection to this website is not secure, that's normal. Their SSL certificate has simply expired. But since we don't have to enter any credentials it's secure.<br/>
+3. Click on the link of this file.<br/><br/>
+![image](https://user-images.githubusercontent.com/110630690/211144821-03c978f6-a4d0-4314-a6ec-c94d1d77fa16.png)<br/>
+4. Save it.<br/>
+
+## d. "install" ffmpeg
+1. Download this file [FFMPEG](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2023-01-04-git-4a80db5fc2-full_build.7z)<br/>
+2. Save it in a new folder inside the folder we created earlier.<br/>
+![image](https://user-images.githubusercontent.com/110630690/211145036-f96a1702-1209-4462-86dd-9c8576cbc159.png)<br/>
+![image](https://user-images.githubusercontent.com/110630690/211145065-392f096e-fc3e-4d28-bd87-2e5ff5e29e47.png)<br/>
+![image](https://user-images.githubusercontent.com/110630690/211145076-45eaef08-8711-42cc-9828-de5993a1023f.png)<br/>
+![image](https://user-images.githubusercontent.com/110630690/211145160-5e4b997c-dc19-4733-ace7-42a855ccebfd.png)<br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/2648haf2v6csaqh.gif)<br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/nzsuywpjz42kfd4.gif)<br/>
+<br/>
+## e. Saving the minecraft 1.8.8 JAR.
+1. Navigate to [https://mcversions.net/download/1.8.8](https://mcversions.net/download/1.8.8).<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/2uuocbwczdpuvxm.gif)<br/>
+2. Click "Download Client JAR".<br/><br/>
+![image](https://user-images.githubusercontent.com/110630690/211145483-d0f1b53a-bb6f-448b-bca6-42ca8b2133d2.png)
+3. Save it in a new folder inside of the workspace.<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/6diiao69hlval23.gif)
+4. Rename the file into ```1.8.8```<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/3hyyt78op6nmmd3.gif)
+
+## f. Installing java
 1. Navigate to [https://adoptium.net/temurin/releases/?version=11](https://adoptium.net/temurin/releases/?version=11). You should arrive to a webpage that looks like this.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210970740-91ed3996-55a8-45a2-8b29-07d2716590a2.png)<br/>
 2. You are prompted to enter your operating system and the architecture.<br/><br/>
@@ -46,7 +82,6 @@ Type in ```java --version```<br/><br/>
 
 You will see this appear if java is installed.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210978227-59c21608-e72f-4e4d-b039-230b2acd9f12.png)<br/>
-You are done! You are now ready to start this tutorial series.
 
 
 This is all for today's tutorial.
