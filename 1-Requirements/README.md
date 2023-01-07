@@ -30,22 +30,22 @@ So you have decided to try and make a client for eaglercraft 1.8 and here you ar
 1. Download this file [FFMPEG](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2023-01-04-git-4a80db5fc2-full_build.7z)<br/>
 2. Save it in a new folder inside the folder we created earlier.<br/>
 ![image](https://user-images.githubusercontent.com/110630690/211145036-f96a1702-1209-4462-86dd-9c8576cbc159.png)
-(Create a new folder)<br/>
+<br/>(Create a new folder)
 
 ![image](https://user-images.githubusercontent.com/110630690/211145065-392f096e-fc3e-4d28-bd87-2e5ff5e29e47.png)
-(Enter a name)<br/>
+<br/>(Enter a name)<br/>
 
 ![image](https://user-images.githubusercontent.com/110630690/211145076-45eaef08-8711-42cc-9828-de5993a1023f.png)
-(Naming it FFMPEG)<br/>
+<br/>(Naming it FFMPEG)<br/>
 
 ![image](https://user-images.githubusercontent.com/110630690/211145160-5e4b997c-dc19-4733-ace7-42a855ccebfd.png)
-(Placing the file inside the folder)<br/>
+<br/>(Placing the file inside the folder)<br/>
 
 ![image](https://i-am-a.fuchsiax.dev/and-i-skid/2648haf2v6csaqh.gif)
-(Extracting a folder from the file)<br/>
+<br/>(Extracting a folder from the file)<br/>
 
 ![image](https://i-am-a.fuchsiax.dev/and-i-skid/nzsuywpjz42kfd4.gif)
-(Moving all the file in that new folder inside of bin to the FFMPEG directory and deleting the folder)<br/>
+<br/>(Moving all the file in that new folder inside of bin to the FFMPEG directory and deleting the folder)<br/>
 
 ## e. Saving the minecraft 1.8.8 JAR.
 1. Navigate to [https://mcversions.net/download/1.8.8](https://mcversions.net/download/1.8.8).<br/><br/>
