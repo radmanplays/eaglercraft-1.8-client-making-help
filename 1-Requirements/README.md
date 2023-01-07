@@ -11,7 +11,6 @@ So you have decided to try and make a client for eaglercraft 1.8 and here you ar
 
 
 ## How to install java
-### On windows
 1. Navigate to [https://adoptium.net/temurin/releases/?version=11](https://adoptium.net/temurin/releases/?version=11). You should arrive to a webpage that looks like this.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210970740-91ed3996-55a8-45a2-8b29-07d2716590a2.png)<br/>
 2. You are prompted to enter your operating system and the architecture.<br/><br/>
