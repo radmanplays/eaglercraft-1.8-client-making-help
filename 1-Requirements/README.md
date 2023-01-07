@@ -1,6 +1,6 @@
 # Requirements
 
-You will need:
+So you have decided to try and make a client for eaglercraft 1.8 and here you are. For this tutorial you will need:
 - A decent enough computer running 64-bit Windows.
 - A ZIP archive manager (WinRAR, 7-zip)
 - ModCoderPack 1.8.8 (mcp918.zip) [https://modcoderpack.com/](https://modcoderpack.com/)
@@ -18,6 +18,15 @@ You will need:
 3. Click on ```Folder```.<br/>
 4. Name it how you want.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/211144909-b97aec17-be21-44a3-8e49-181be8a26905.png)<br/>
+
+## b. Installing a ZIP archive manager.
+1. Navigate to [https://www.7-zip.org/](https://www.7-zip.org/).<br/>
+2. Click here.
+![image](https://user-images.githubusercontent.com/110630690/211146074-10dc97a8-a810-4f4e-bba4-cd96ffe57581.png)
+3. Save it in your workspace folder.
+4. Open it.
+5. Click Install.
+![image](https://user-images.githubusercontent.com/110630690/211146119-13f68a2d-aff5-4864-b534-6957d6a54870.png)
 
 ## c. Downloading ModCoderPack
 1. Navigate to [https://modcoderpack.com/](https://modcoderpack.com/).<br/>
@@ -45,7 +54,7 @@ You will need:
 <br/>(Extracting a folder from the file)<br/>
 
 ![image](https://i-am-a.fuchsiax.dev/and-i-skid/nzsuywpjz42kfd4.gif)
-<br/>(Moving all the file in that new folder inside of bin to the FFMPEG directory and deleting the folder)<br/>
+<br/>(Moving all the file in bin inside that new folder to the FFMPEG directory and deleting the folder)<br/>
 
 ## e. Saving the minecraft 1.8.8 JAR.
 1. Navigate to [https://mcversions.net/download/1.8.8](https://mcversions.net/download/1.8.8).<br/><br/>
@@ -57,7 +66,18 @@ You will need:
 4. Rename the file into ```1.8.8```.<br/><br/>
 ![image](https://i-am-a.fuchsiax.dev/and-i-skid/3hyyt78op6nmmd3.gif)
 
-## f. Installing java
+## f. Getting assets index for 1.8.
+1. Launch minecraft java edition in 1.8.8.
+2. Close minecraft.
+3. Press Win+R and type in ```%appdata%```.<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/qzmra8f3u4qi8y3.gif)<br/>
+4. Navigate into the ```.minecraft``` folder then inside of ```assets``` and finally inside ```indexes```.<br/><br/>
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/ogmyvqwp06jkezp.gif)<br/>
+5. Copy the file.
+6. Paste it inside the Minecraft JAR folder in the workspace.
+![image](https://i-am-a.fuchsiax.dev/and-i-skid/ax6m290cv3cklj0.gif)
+
+## g. Installing java
 1. Navigate to [https://adoptium.net/temurin/releases/?version=11](https://adoptium.net/temurin/releases/?version=11). You should arrive to a webpage that looks like this.<br/><br/>
 ![image](https://user-images.githubusercontent.com/110630690/210970740-91ed3996-55a8-45a2-8b29-07d2716590a2.png)<br/>
 2. You are prompted to enter your operating system and the architecture.<br/><br/>
